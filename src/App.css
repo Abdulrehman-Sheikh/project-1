@@ -1,0 +1,24 @@
+.bg{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  max-width: 1090px;
+  }
+  .main-heading{
+    /* margin-left: 140px; */
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 61px;
+    color: #1E255E;
+    line-height: 71px;
+    /* align-items: center; */
+  }
+  .small-heading{
+    /* margin-left: 176px; */
+    text-align: center;
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 16px;
+  }
